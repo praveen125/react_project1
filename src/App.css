@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  width: 100%;
 }
 
 .App-logo {
@@ -35,4 +36,28 @@
   to {
     transform: rotate(360deg);
   }
+}
+.img {
+  width: 80%;
+}
+.form {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  display: inline-block;
+}
+.navbar-brand {
+  margin: 100px;
+  text-align: center;
+}
+
+.website {
+  color: #053a49;
+}
+.navbar {
+  margin: 30px;
+}
+.nav {
+  margin: 20px;
+  text-align: center;
 }
