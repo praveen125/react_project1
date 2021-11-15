@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-export class Navbar extends Component {
+class Navbar extends Component {
   render() {
     return (
       <div className="form">
