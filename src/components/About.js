@@ -3,8 +3,8 @@ import React, { Component } from "react";
 export class About extends Component {
   render() {
     return (
-      <div>
-        <h1>This is all about my website</h1>
+      <div className="App">
+        <h3>copyrights & praveen 2021</h3>
       </div>
     );
   }

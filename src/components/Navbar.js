@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "../App.css";
 
 class Navbar extends Component {
   render() {
@@ -21,8 +22,8 @@ class Navbar extends Component {
               </a>
             </li>
             <li>
-              <a class="navbar-brand" href="/clients/">
-                Clients
+              <a class="navbar-brand" href="/About/">
+                About
               </a>
             </li>
             <li>

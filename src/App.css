@@ -38,7 +38,7 @@
   }
 }
 .img {
-  width: 80%;
+  width: 54%;
 }
 .form {
   width: 100%;
@@ -55,9 +55,29 @@
   color: #053a49;
 }
 .navbar {
-  margin: 30px;
+  margin: 20px;
 }
-.nav {
+.project {
+  font-size: 30px;
+  font-weight: 300;
+  background-color: antiquewhite;
+  margin: 20px;
+}
+.finder {
+  font-size: 30px;
+  font-weight: 300;
+}
+.mojo {
+  font-size: 30px;
+  font-weight: 300;
+}
+.finders {
+  margin: 10px;
+}
+.mojos {
+  margin: 10px;
+}
+/* .nav {
   margin: 20px;
   text-align: center;
-}
+} */
